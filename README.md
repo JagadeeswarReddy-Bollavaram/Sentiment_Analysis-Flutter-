@@ -66,8 +66,6 @@ The app uses the [API Ninjas Sentiment Analysis API](https://api.api-ninjas.com/
     ```
 5. **Open a pull request**.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 [LinkedIn Profile](https://www.linkedin.com/in/jagadeeswarreddy/)
